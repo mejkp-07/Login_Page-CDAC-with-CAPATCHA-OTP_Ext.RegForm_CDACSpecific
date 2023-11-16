@@ -6,16 +6,20 @@
 
 
 
-### This Project is made using React (Frontend) and Node.js (Backend) by connecting it with PostgreSQL Database. Additionally I have added the feature of entering capatcha in Login form.
+### This Project is made using React (Frontend) and Node.js (Backend) by connecting it with PostgreSQL Database. Additionally I have added the feature of entering capatcha and OTP verification in Login form and Register form (with more fields and validation) respectively.
+
+### Important Note
+
+In this project database used belongs CDAC authority. So it will not run on another system. You may need to change DB address to run on another system (change here "server.js"). 
 
 ## Clone the Project
 ```bash
- git clone https://github.com/mejkp-07/Login_Page-CDAC-with-CAPATCHA-.git
+ git clone https://github.com/mejkp-07/Login_Page-CDAC-with-CAPATCHA-OTP_Ext.RegForm_CDACSpecific.git
 ```
 ## Go inside this Project
 
 ```bash
- cd Login_Page-CDAC-with-CAPATCHA-
+ cd Login_Page-CDAC-with-CAPATCHA-OTP_Ext.RegForm_CDACSpecific
  ```
  ## Install Packages
 
